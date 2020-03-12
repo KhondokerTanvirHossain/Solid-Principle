@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Solid Principle.iml" filepath="$PROJECT_DIR$/Solid Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/InterfaceSegration.iml" filepath="$PROJECT_DIR$/.idea/InterfaceSegration.iml" />
     </modules>
   </component>
 </project>
